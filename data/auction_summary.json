@@ -1,0 +1,16 @@
+{
+  "source": "https://catalogodatos.justicia.es/csv/Subastas_Judiciales.csv",
+  "updated_at_utc": "2026-10-31T08:37:57.058996+00:00",
+  "total_records": 80629,
+  "records_with_real_estate": 77733,
+  "statuses": {
+    "Cancelada": 6572,
+    "Celebrándose": 680,
+    "Desierto": 1,
+    "Publicada": 43,
+    "Puja concluida pendiente de finalización": 12692,
+    "Subasta Finalizada": 60566,
+    "Suspendida": 75
+  },
+  "note": "Resumen estadistico. Los estados del CSV no acreditan vigencia actual. No se publican inmuebles sin ubicacion verificada."
+}
