@@ -1,6 +1,6 @@
 {
   "source": "https://catalogodatos.justicia.es/csv/Subastas_Judiciales.csv",
-  "updated_at_utc": "2026-11-11T08:06:43.080462+00:00",
+  "updated_at_utc": "2026-11-12T08:09:11.070068+00:00",
   "total_records": 81085,
   "records_with_real_estate": 78183,
   "statuses": {
