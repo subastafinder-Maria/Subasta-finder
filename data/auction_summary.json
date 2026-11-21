@@ -1,16 +1,16 @@
 {
   "source": "https://catalogodatos.justicia.es/csv/Subastas_Judiciales.csv",
-  "updated_at_utc": "2026-11-20T08:09:46.839179+00:00",
-  "total_records": 81352,
-  "records_with_real_estate": 78443,
+  "updated_at_utc": "2026-11-21T08:00:09.391492+00:00",
+  "total_records": 81645,
+  "records_with_real_estate": 78729,
   "statuses": {
-    "Cancelada": 6671,
-    "Celebrándose": 651,
+    "Cancelada": 6697,
+    "Celebrándose": 676,
     "Desierto": 1,
-    "Publicada": 57,
-    "Puja concluida pendiente de finalización": 12795,
-    "Subasta Finalizada": 61108,
-    "Suspendida": 69
+    "Publicada": 66,
+    "Puja concluida pendiente de finalización": 12787,
+    "Subasta Finalizada": 61350,
+    "Suspendida": 68
   },
   "note": "Resumen estadistico. Los estados del CSV no acreditan vigencia actual. No se publican inmuebles sin ubicacion verificada."
 }
